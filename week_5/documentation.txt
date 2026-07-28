@@ -1,0 +1,8 @@
+1. Why are the variables declared as private?
+   - To enforce encapsulation and protect data from direct access.
+
+2. What happens if the variables are declared public?
+   - Anyone can change them directly, which breaks security and consistency.
+
+3. Why do we use getters and setters?
+   - They provide controlled access to private variables and allow validation when updating values.
